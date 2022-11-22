@@ -1,3 +1,0 @@
-Player chooses scissors 
-AI chooses Spock 
-AI wins! 
